@@ -1,0 +1,21 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancelar",
+    "back": "Voltar"
+  },
+  "errors": {
+    "invalidEmail": "Endereço de email inválido."
+  },
+  "homeScreen": {
+    "poweredBy": "FEITO POR ESTUDANTES",
+    "continue": "CONTINUE"
+  },
+  "veterinarioScreen": {
+    "list": "Lista de Veterinários",
+    "add": "Adicionar Veterinário"
+  },
+  "petScreen": {
+    "list": "Lista de Pets"
+  }
+}
